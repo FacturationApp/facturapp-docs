@@ -20,13 +20,10 @@ This repository is the documentation layer for users, partners, and visitors who
 - Public-facing product explanations and policies
 - A focused tool for invoicing and payment workflows, not a full accounting suite
 
-## Policies
+## Docs index
 
-- We keep the code private.
-- We only publish user-facing documentation.
-- We do not hold client funds; payments run through Stripe.
-- We do not position FacturApp as a bank, payroll system, or accounting replacement.
-- We keep public content product-focused and implementation details private.
+- [Features](./FEATURES.md)
+- [Policies](./POLICIES.md)
 
 ## Public links
 
